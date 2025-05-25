@@ -45,8 +45,8 @@ npm install
 
 # 4. Start the development server
 npm start
+```
 
----
 ## 📌 Notes
 
 # 1. The project is not responsive at the moment.
