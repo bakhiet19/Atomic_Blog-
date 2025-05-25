@@ -46,11 +46,13 @@ npm install
 # 4. Start the development server
 npm start
 
-
+---
 📌 Notes
 
 # 1. The project is not responsive at the moment.
 # 2. Designed for desktop view only.
+
+---
 
 📬 Contact
 If you have any questions or suggestions, feel free to reach out:
