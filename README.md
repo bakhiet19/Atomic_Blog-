@@ -47,14 +47,14 @@ npm install
 npm start
 
 ---
-📌 Notes
+## 📌 Notes
 
 # 1. The project is not responsive at the moment.
 # 2. Designed for desktop view only.
 
 ---
 
-📬 Contact
+## 📬 Contact
 If you have any questions or suggestions, feel free to reach out:
 GitHub: @bakhiet19
 email : bakhit2024@gmail.com
