@@ -56,5 +56,5 @@ npm start
 
 ## 📬 Contact
 If you have any questions or suggestions, feel free to reach out:
-GitHub: @bakhiet19
-email : bakhit2024@gmail.com
+# 1. GitHub: @bakhiet19
+# 2. email : bakhit2024@gmail.com
